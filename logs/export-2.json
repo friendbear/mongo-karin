@@ -1,0 +1,555 @@
+
+
+@startjson
+[{
+  "_id": {
+    "$oid": "619f73a4e7a9fcab0f17b35d"
+  },
+  "event_id": 1,
+  "user_id": "1385973616777383939",
+  "point": 500,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:29:40.217Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f743c38a3e827b20b6587"
+  },
+  "event_id": 1,
+  "user_id": "1060512975142846464",
+  "point": 200,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:32:12.901Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f7497215eddbaf8dac358"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:33:43.126Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f749dd8294256400f00b2"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:33:49.705Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74a16f87be92ac68aa2b"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:33:53.127Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74a4c5fb398abfa9e712"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:33:56.681Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74a7da3ac60f63f65863"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:33:59.590Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74aae65c654f81723413"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:02.726Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74ad0e4b1fd9ff4af8ad"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:05.739Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74b02b65dfc1fc6faac5"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:08.818Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74b31fa12e3a39b18e77"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:11.730Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74b687dfe3e26a14416d"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:14.713Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74b965b3938e12ee9914"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:17.270Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74bc6bebf14fb85e1635"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:20.602Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74c24fd4b639c6095dd2"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:26.770Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74c666c328c9df98bcfe"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:30.659Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74c9404339abb6901608"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:33.338Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74cb742b3745f65b2603"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:35.673Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74cfee6f352aae52ca47"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:39.223Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f74d19047bc72815cf937"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:34:41.326Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f752cbfeb8d0bfa0a9dda"
+  },
+  "event_id": 1,
+  "user_id": "1138786570100592640",
+  "point": 4000,
+  "stars": true,
+  "create_at": {
+    "$date": "2021-11-25T11:36:12.220Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f758ea60cd8b320406ff8"
+  },
+  "event_id": 1,
+  "user_id": "1443431218712772610",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T11:37:50.104Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f81d7cf50f4ee852d71ac"
+  },
+  "event_id": 1,
+  "user_id": "1431489458075959296",
+  "point": 700,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:30:15.140Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f82006290d53446125307"
+  },
+  "event_id": 1,
+  "user_id": "1431489458075959296",
+  "point": 700,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:30:56.922Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f8232860426c47b65da29"
+  },
+  "event_id": 1,
+  "user_id": "1152515606073073664",
+  "point": 500,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:31:46.182Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f824549b4baa50805b400"
+  },
+  "event_id": 1,
+  "user_id": "1363133270838243335",
+  "point": 500,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:32:05.938Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f825749b944dc58c5a4e8"
+  },
+  "event_id": 1,
+  "user_id": "1152515606073073664",
+  "point": 500,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:32:23.190Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f8269cc6538b9f73783b2"
+  },
+  "event_id": 1,
+  "user_id": "999999963126902784",
+  "point": 500,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:32:41.331Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f836698d38ca17b48d920"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 500,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:36:54.282Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f836cd2d6bbf90377f8f1"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 500,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:37:00.804Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f836fc2c9d51c23cff98a"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 500,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:37:03.747Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f837a5e2de76d22d4accf"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 500,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:37:14.183Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f83a3417793df943942a9"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:37:55.085Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f83a5c84086c91c864b38"
+  },
+  "event_id": 1,
+  "user_id": "1382845172770230274",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:37:57.294Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f844af8d0c4ba0c87b1b1"
+  },
+  "event_id": 1,
+  "user_id": "1152515606073073664",
+  "point": 200,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:40:42.713Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f849ba42a84249c21d60a"
+  },
+  "event_id": 1,
+  "user_id": "1462436517763325953",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:42:03.202Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f84afaaa549834f565e8f"
+  },
+  "event_id": 1,
+  "user_id": "1462436517763325953",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:42:23.485Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f84b17e5d4452605e3ae9"
+  },
+  "event_id": 1,
+  "user_id": "1462436517763325953",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:42:25.709Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f84b4e6d488cdb382b232"
+  },
+  "event_id": 1,
+  "user_id": "1462436517763325953",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:42:28.783Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f84b674fe2bee5e4a210c"
+  },
+  "event_id": 1,
+  "user_id": "1462436517763325953",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:42:30.612Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f84b823ae31b7d9826743"
+  },
+  "event_id": 1,
+  "user_id": "1462436517763325953",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:42:32.431Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f84f2ae94be0f70dfad9c"
+  },
+  "event_id": 1,
+  "user_id": "1218262657641246720",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T12:43:30.897Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f88e2500d73c13ac86425"
+  },
+  "event_id": 1,
+  "user_id": "1435786481721696267",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T13:00:18.467Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f88ec6b937eb3138a0c3b"
+  },
+  "event_id": 1,
+  "user_id": "1435786481721696267",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T13:00:28.865Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f88f0eed916f3d0312a69"
+  },
+  "event_id": 1,
+  "user_id": "1435786481721696267",
+  "point": 10,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T13:00:32.216Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f898f9ab97c53fccd3a97"
+  },
+  "event_id": 1,
+  "user_id": "855156955425292288",
+  "point": 6000,
+  "stars": true,
+  "create_at": {
+    "$date": "2021-11-25T13:03:11.526Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f8a160f2f64215db0d12d"
+  },
+  "event_id": 1,
+  "user_id": "1443431218712772610",
+  "point": 7000,
+  "stars": true,
+  "create_at": {
+    "$date": "2021-11-25T13:05:26.622Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f8e5c37947ab0760ef43e"
+  },
+  "event_id": 1,
+  "user_id": "1443431218712772610",
+  "point": 8000,
+  "stars": true,
+  "create_at": {
+    "$date": "2021-11-25T13:23:40.303Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f91f9188bb69ee879de62"
+  },
+  "event_id": 1,
+  "user_id": "1302985417327665153",
+  "point": 200,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T13:39:05.381Z"
+  }
+},{
+  "_id": {
+    "$oid": "619f92334b06d955a97f04e9"
+  },
+  "event_id": 1,
+  "user_id": "1302985417327665153",
+  "point": 500,
+  "stars": false,
+  "create_at": {
+    "$date": "2021-11-25T13:40:03.077Z"
+  }
+}]
+@endjson
